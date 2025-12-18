@@ -1,0 +1,18 @@
+
+# VS Code
+.vscode/
+
+# Editor history
+.history/
+
+# Python cache
+__pycache__/
+
+# Local database
+db.sqlite3
+
+# Environment variables
+*.env
+
+# Static files directory
+/static/
