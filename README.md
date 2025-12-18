@@ -1,6 +1,6 @@
  # Core Project Documentation
 
-This document provides instructions and information about the `core` Django project.
+This document provides instructions and information about the `core` Django project. This is overall core code I find useful and it is for me :)
 
 ## Project Overview
 
